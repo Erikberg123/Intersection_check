@@ -1,5 +1,5 @@
 README
-This folder contains code written for the Leica task it is written in C++ and uses STL 
+This folder contains code written for the programming task it is written in C++ and uses STL 
 
 
 To compile:
